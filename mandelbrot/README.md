@@ -4,6 +4,7 @@ can be seen in project.
 CMake is used for project build. Doxygen is used for project documentation.
 
 To build project and project documentation, go to root directory:
+<pre>
 $ cd root
 $ mkdir build
 $ cd build
